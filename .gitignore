@@ -1,3 +1,4 @@
 .vscode
-DIO.Series.csproj
-bin
+/DIO.Series.csproj
+/bin
+.gitignore

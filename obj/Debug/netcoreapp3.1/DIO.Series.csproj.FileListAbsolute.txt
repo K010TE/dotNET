@@ -11,3 +11,17 @@
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+E:\Repositorios\C#\dio-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.exe
+E:\Repositorios\C#\dio-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+E:\Repositorios\C#\dio-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+E:\Repositorios\C#\dio-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+E:\Repositorios\C#\dio-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.dll
+E:\Repositorios\C#\dio-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+E:\Repositorios\C#\dio-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+E:\Repositorios\C#\dio-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\C#\dio-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+E:\Repositorios\C#\dio-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+E:\Repositorios\C#\dio-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Repositorios\C#\dio-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.dll
+E:\Repositorios\C#\dio-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+E:\Repositorios\C#\dio-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
