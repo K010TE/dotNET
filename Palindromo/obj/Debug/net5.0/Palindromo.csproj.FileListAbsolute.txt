@@ -1,0 +1,16 @@
+E:\Repositorios\C#\dio-dotnet\Palindromo\bin\Debug\net5.0\Palindromo.exe
+E:\Repositorios\C#\dio-dotnet\Palindromo\bin\Debug\net5.0\Palindromo.deps.json
+E:\Repositorios\C#\dio-dotnet\Palindromo\bin\Debug\net5.0\Palindromo.runtimeconfig.json
+E:\Repositorios\C#\dio-dotnet\Palindromo\bin\Debug\net5.0\Palindromo.runtimeconfig.dev.json
+E:\Repositorios\C#\dio-dotnet\Palindromo\bin\Debug\net5.0\Palindromo.dll
+E:\Repositorios\C#\dio-dotnet\Palindromo\bin\Debug\net5.0\ref\Palindromo.dll
+E:\Repositorios\C#\dio-dotnet\Palindromo\bin\Debug\net5.0\Palindromo.pdb
+E:\Repositorios\C#\dio-dotnet\Palindromo\obj\Debug\net5.0\Palindromo.csproj.AssemblyReference.cache
+E:\Repositorios\C#\dio-dotnet\Palindromo\obj\Debug\net5.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\C#\dio-dotnet\Palindromo\obj\Debug\net5.0\Palindromo.AssemblyInfoInputs.cache
+E:\Repositorios\C#\dio-dotnet\Palindromo\obj\Debug\net5.0\Palindromo.AssemblyInfo.cs
+E:\Repositorios\C#\dio-dotnet\Palindromo\obj\Debug\net5.0\Palindromo.csproj.CoreCompileInputs.cache
+E:\Repositorios\C#\dio-dotnet\Palindromo\obj\Debug\net5.0\Palindromo.dll
+E:\Repositorios\C#\dio-dotnet\Palindromo\obj\Debug\net5.0\ref\Palindromo.dll
+E:\Repositorios\C#\dio-dotnet\Palindromo\obj\Debug\net5.0\Palindromo.pdb
+E:\Repositorios\C#\dio-dotnet\Palindromo\obj\Debug\net5.0\Palindromo.genruntimeconfig.cache
